@@ -8,4 +8,5 @@ def fizzbuzz(x)
    return "Buzz"
   elsif x % 2 == 0 
    return "Fizz"
+  end
 end
